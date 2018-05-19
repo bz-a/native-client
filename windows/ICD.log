@@ -1,0 +1,909 @@
+4/26/2018 8:02:24 PM Info Project 'Project_1' created successfully and added to workspace
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Policies/Experience
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Policies/Experience
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Policies/Experience
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Policies/Experience
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Policies/Experience
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /OOBE/Desktop
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /OOBE/Desktop
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /Accounts/ComputerAccount
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext/Command
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext/Command/CommandConfig
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:25 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:02:25 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext
+4/26/2018 8:02:27 PM Info Loading scenario ID: d2fa89db-1251-4bdf-b1bf-4b96016aaea4, URI: http://localhost:9098/Scenarios/d2fa89db-1251-4bdf-b1bf-4b96016aaea4/Index.html
+4/26/2018 8:03:00 PM Info Clear all Config Template answers
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext/Command
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /ProvisioningCommands/PrimaryContext/Command/CommandConfig
+4/26/2018 8:03:00 PM Info Save Config Template answers for active project
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /CleanPC/CleanPCWithoutRetainingUserData
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /CleanPC/CleanPCWithoutRetainingUserData
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE/Desktop
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE/Desktop
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE/Desktop/HideOobe
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE/Desktop/HideOobe
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/ApplicationManagement/AllowAllTrustedApps
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/ApplicationManagement/AllowAllTrustedApps
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/Experience
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/Experience
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/Experience/AllowManualMDMUnenrollment
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/Experience/AllowManualMDMUnenrollment
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/AccountModel
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/AccountModel
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/DeletionPolicy
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/DeletionPolicy
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/DiskLevelCaching
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/DiskLevelCaching
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/EnableAccountManager
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/EnableAccountManager
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/EnableSharedPCMode
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/EnableSharedPCMode
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization/SetEduPolicies
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization/SetEduPolicies
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization/SetPowerPolicies
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization/SetPowerPolicies
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization/SignInOnResume
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization/SignInOnResume
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/DiskLevelCaching
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/DiskLevelCaching
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /CleanPC/CleanPCWithoutRetainingUserData
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /CleanPC/CleanPCWithoutRetainingUserData
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE/Desktop
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE/Desktop
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE/Desktop
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE/Desktop
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE/Desktop/HideOobe
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE/Desktop/HideOobe
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE/Desktop
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE/Desktop
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /OOBE/Desktop
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/ApplicationManagement/AllowAllTrustedApps
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/ApplicationManagement/AllowAllTrustedApps
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/Experience
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/Experience
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/Experience
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/Experience
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/Experience/AllowManualMDMUnenrollment
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/Experience/AllowManualMDMUnenrollment
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/Experience
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/Experience
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /Policies/Experience
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/AccountModel
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/AccountModel
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/DeletionPolicy
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/DeletionPolicy
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/DiskLevelCaching
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/DiskLevelCaching
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/EnableAccountManager
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement/EnableAccountManager
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/EnableSharedPCMode
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/EnableSharedPCMode
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization/SetEduPolicies
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization/SetEduPolicies
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization/SetPowerPolicies
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization/SetPowerPolicies
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization/SignInOnResume
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization/SignInOnResume
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:00 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:00 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:03 PM Info Project 'Project_1' created successfully and added to workspace
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /ADMXIngestion
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /AssignedAccess
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /CellCore
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /Cellular
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /DataMarketplace
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /DesktopBackgroundAndColors
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /Licensing
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /Personalization
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /SMISettings
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /Start
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /TakeATest
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /UnifiedWriteFilter
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /ADMXIngestion
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /AssignedAccess
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /CellCore
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /Cellular
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /DataMarketplace
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /DesktopBackgroundAndColors
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /Licensing
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /Personalization
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /ProvisioningCommands
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /SMISettings
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /Start
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /TakeATest
+4/26/2018 8:03:15 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:15 PM Error     Failed to find hive key /UnifiedWriteFilter
+4/26/2018 8:03:20 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:20 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:20 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:20 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:20 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:20 PM Error     Failed to find hive key /CleanPC/CleanPCWithoutRetainingUserData
+4/26/2018 8:03:20 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:20 PM Error     Failed to find hive key /CleanPC/CleanPCWithoutRetainingUserData
+4/26/2018 8:03:20 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:20 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:20 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:20 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:20 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:20 PM Error     Failed to find hive key /CleanPC
+4/26/2018 8:03:21 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-cleanpc#cleanpcretaininguserdata
+4/26/2018 8:03:29 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:29 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:29 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:29 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:29 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:29 PM Error     Failed to find hive key /OOBE/Desktop
+4/26/2018 8:03:29 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:29 PM Error     Failed to find hive key /OOBE/Desktop
+4/26/2018 8:03:29 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:29 PM Error     Failed to find hive key /OOBE/Desktop/HideOobe
+4/26/2018 8:03:29 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:29 PM Error     Failed to find hive key /OOBE/Desktop/HideOobe
+4/26/2018 8:03:29 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:29 PM Error     Failed to find hive key /OOBE/Desktop
+4/26/2018 8:03:29 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:29 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:29 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:29 PM Error     Failed to find hive key /OOBE/Desktop
+4/26/2018 8:03:29 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:29 PM Error     Failed to find hive key /OOBE
+4/26/2018 8:03:29 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-oobe#desktop
+4/26/2018 8:03:32 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:32 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:32 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:32 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:32 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:32 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:32 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:32 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:32 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:32 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement/AccountModel
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement/AccountModel
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement/DeletionPolicy
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement/DeletionPolicy
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement/DiskLevelCaching
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement/DiskLevelCaching
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement/EnableAccountManager
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement/EnableAccountManager
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/PolicyCustomization
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:35 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:35 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-sharedpc#accountmanagement
+4/26/2018 8:03:40 PM Error GetHiveKey (onecore\base\ntsetup\wpx\ks\store.cpp:135) - 0x80070002:
+4/26/2018 8:03:40 PM Error     Failed to find hive key /SharedPC/AccountManagement
+4/26/2018 8:03:40 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-sharedpc#accountmanagement

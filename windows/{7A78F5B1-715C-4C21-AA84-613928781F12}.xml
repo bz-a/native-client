@@ -1,0 +1,17 @@
+<NLEMotion>
+<Motion>
+<MotionAlians>Custom_0</MotionAlians>
+<MotionGUID>{7A78F5B1-715C-4C21-AA84-613928781F12}</MotionGUID>
+<MotionResType>1</MotionResType>
+<MotionPositionList>
+<Point XPos="0.500000" YPos="0.500000"/>
+<Point XPos="0.500000" YPos="0.500000"/>
+<Point XPos="0.500000" YPos="0.500000"/>
+<Point XPos="0.650000" YPos="0.374074"/>
+</MotionPositionList>
+<MotionEffectList>
+<MotionEffec KeyFrame="0.000000" scaleX="1.600000" scaleY="1.600000" rotate="0" alpha="100"/>
+<MotionEffec KeyFrame="1.000000" scaleX="1.800000" scaleY="1.800000" rotate="0" alpha="100"/>
+</MotionEffectList>
+</Motion>
+</NLEMotion>

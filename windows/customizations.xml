@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WindowsCustomizations>
+  <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
+    <ID>{998ecf73-1562-49a4-a5e3-7451cc91f93d}</ID>
+    <Name>Project_1</Name>
+    <Version>1.0</Version>
+    <OwnerType>OEM</OwnerType>
+    <Rank>0</Rank>
+    <Notes></Notes>
+  </PackageConfig>
+  <Settings xmlns="urn:schemas-microsoft-com:windows-provisioning">
+    <Customizations>
+      <Common>
+        <CleanPC>
+          <CleanPCWithoutRetainingUserData>Enable</CleanPCWithoutRetainingUserData>
+        </CleanPC>
+        <OOBE>
+          <Desktop>
+            <HideOobe>True</HideOobe>
+          </Desktop>
+        </OOBE>
+        <Policies>
+          <ApplicationManagement>
+            <AllowAllTrustedApps>No</AllowAllTrustedApps>
+            <AllowDeveloperUnlock>No</AllowDeveloperUnlock>
+          </ApplicationManagement>
+          <Experience>
+            <AllowManualMDMUnenrollment>No</AllowManualMDMUnenrollment>
+          </Experience>
+          <Security>
+            <AllowAddProvisioningPackage>No</AllowAddProvisioningPackage>
+            <AllowRemoveProvisioningPackage>No</AllowRemoveProvisioningPackage>
+          </Security>
+          <Update>
+            <AllowAutoUpdate>Auto-install and restart without end-user control</AllowAutoUpdate>
+          </Update>
+        </Policies>
+        <SharedPC>
+          <AccountManagement>
+            <AccountModel>Domain-joined and guest</AccountModel>
+            <DeletionPolicy>Delete at disk space threshold</DeletionPolicy>
+            <DiskLevelCaching>25</DiskLevelCaching>
+            <EnableAccountManager>True</EnableAccountManager>
+          </AccountManagement>
+          <EnableSharedPCMode>True</EnableSharedPCMode>
+          <PolicyCustomization>
+            <SetEduPolicies>True</SetEduPolicies>
+            <SetPowerPolicies>True</SetPowerPolicies>
+            <SignInOnResume>True</SignInOnResume>
+          </PolicyCustomization>
+        </SharedPC>
+      </Common>
+    </Customizations>
+  </Settings>
+</WindowsCustomizations>

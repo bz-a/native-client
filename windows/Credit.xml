@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CaptionResource>
+  <Alias>Pixie Dust</Alias>
+  <BackImage>$CaptionTemplatePath$</BackImage>
+  <BackVideo></BackVideo>
+  <GUID>{FA46F5CE-6FD8-43d9-ADF5-46137BAC06C1}</GUID>
+  <ResourceType>0</ResourceType>
+  <TemplateStyle>0</TemplateStyle>
+  <CanMoveTextPosition>1</CanMoveTextPosition>
+  <CanChangeFaceColor>1</CanChangeFaceColor>
+  <CanChangeBorderColor>1</CanChangeBorderColor>
+  <NLETitleArray>
+    <NLETitleItem>
+      <EffectID>SweepShowLeft2Right</EffectID>
+      <TextParam>
+        <Title>The End</Title>
+        <Font>
+          <Size>80</Size>
+          <Bold>1</Bold>
+          <Italic>0</Italic>
+          <FontName>Lucida Calligraphy Italic</FontName>
+        </Font>
+        <Face>
+          <Enable>1</Enable>
+          <Color1>-1</Color1>
+          <Color2>-1</Color2>
+          <GradType>0</GradType>
+          <Alpha>255</Alpha>
+          <BlurRadius>0</BlurRadius>
+          <Effect>0</Effect>
+        </Face>
+        <Shadow>
+          <Enable>1</Enable>
+          <Color>-8355712</Color>
+          <Alpha>121</Alpha>
+          <BlurRadius>7</BlurRadius>
+          <Distance>1</Distance>
+          <Direction>3</Direction>
+        </Shadow>
+        <Border>
+          <Enable>0</Enable>
+          <Size>1</Size>
+          <Color1>4409301</Color1>
+          <Color2>4409301</Color2>
+          <GradType>0</GradType>
+          <Alpha>255</Alpha>
+          <BlurRadius>0</BlurRadius>
+        </Border>
+        <RowSpace>0</RowSpace>
+        <LineSpace>0</LineSpace>
+        <Align>2</Align>
+        <BackgroundColor>
+          <Enable>0</Enable>
+          <BackgroundColor>16777215</BackgroundColor>
+          <Alpha>255</Alpha>
+          <BackgroundColor2>16777215</BackgroundColor2>
+          <GradType>0</GradType>
+        </BackgroundColor>
+        <BackgroundImage>
+          <Enable>0</Enable>
+          <ImagePath />
+          <TextOffsetX>0</TextOffsetX>
+          <TextOffsetY>0</TextOffsetY>
+          <TextRegionWidth>0</TextRegionWidth>
+          <TextRegionHeight>0</TextRegionHeight>
+        </BackgroundImage>
+        <Texture>
+          <Enable>0</Enable>
+          <TextureImagePath>
+D:\Program Files (x86)\Wondershare\Video Editor\Captions\Titles\Textures\Texture (1).jpg
+</TextureImagePath>
+        </Texture>
+      </TextParam>
+      <EffectParam>
+        <ImagePosX>49</ImagePosX>
+        <ImagePosY>43</ImagePosY>
+        <ImageAngle>0</ImageAngle>
+        <Ratio>0</Ratio>
+        <EffectIn>3000</EffectIn>
+        <EffectOut>3000</EffectOut>
+        <OrigPosX>48</OrigPosX>
+        <OrigPosY>48</OrigPosY>
+      </EffectParam>
+    </NLETitleItem>
+  </NLETitleArray>
+</CaptionResource>
